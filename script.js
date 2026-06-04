@@ -605,7 +605,7 @@ const crtLoveTl = () => {
 
   new mojs.Html({ // [I] LOVE YOU
     ...opts,
-    el: el.t,
+    el: el.i,
     x: { 0: 34 } }).
   then({
     duration: boom,
@@ -627,25 +627,25 @@ const crtLoveTl = () => {
 
   new mojs.Html({ // H
     ...opts,
-    el: el.h,
+    el: el.l,
     x: { 0: 15 } }),
 
 
   new mojs.Html({ // I L[O]VE YOU
     ...opts,
-    el: el.a,
+    el: el.o,
     x: { 0: 11 } }),
 
 
   new mojs.Html({ // I LO[V]E YOU
     ...opts,
-    el: el.n,
+    el: el.v,
     x: { 0: 3 } }),
 
 
   new mojs.Html({ // I LOV[E] YOU
     ...opts,
-    el: el.k,
+    el: el.e,
     x: { 0: -3 } }),
 
 
@@ -665,7 +665,7 @@ const crtLoveTl = () => {
 
   new mojs.Html({ // I LOVE Y[O]U
     ...opts,
-    el: el.o2,
+    el: el.o,
     x: { 0: -27 } }).
   then({
     duration: boom,
